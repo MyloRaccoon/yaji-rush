@@ -10,7 +10,7 @@ dans le jeu : Les flèches, entrer, et échape sont utiliser pour naviguer dans 
 
 Made by Mylo
 
-Discord : Mylo#2896
+Discord : Mylo_racoon
 E-Mail : joachim.fevre@gmail.com
 
 Merci de me contacter si vous avez des bugs à signaler.
